@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nklmantey
-- 👀 I’m interested in anything involving computers and programming
+- 👀 I’m interested in anything involving mobile app development, either cross-platform or native!
 - 🌱 I’m currently taking a course in Information Technology in college
-- 💞️ I’m looking to collaborate on anything programming related, specifically Java or Javascript, to better my skills
+- 💞️ I’m looking to collaborate on anything Javascript, ReactJS or React Native  to better my skills
 - 📫 You can mail me at nklmantey@st.ug.edu.gh
 
 <!---
