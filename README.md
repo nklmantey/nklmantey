@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a [manga app built with React Native](https://github.com/nklmantey/react-native-manga-app)<br><br>🌱 I’m currently learning Kotlin for Android development<br><br>👨‍💻 All of my projects are available at https://github.com/nklmantey<br><br>📫 How to reach me nanakofilarbimantey@gmail.com 
-<br><br>📝 Access my [CV](https://drive.google.com/file/d/1VzwFnmeDOWuX2El6F8h6koWcFFcIEh5-/view?usp=sharing) here <br><br>
+<br><br>📝 Access my [CV](https://drive.google.com/file/d/1TIrPCGBWoOxdB5fudVyAnoPHwvNbeUZD/view?usp=sharing) here <br><br>
 
 ## 🌐 Socials:
 <p align="left"><a href="https://instagram.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nklmantey" height="30" width="40" /></a> <a href="https://twitter.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nklmantey" height="30" width="40" /></a>
