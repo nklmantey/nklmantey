@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a [manga app built with React Native](https://github.com/nklmantey/react-native-manga-app)<br><br>🌱 I’m currently learning Kotlin for Android development<br><br>👨‍💻 All of my projects are available at https://github.com/nklmantey<br><br>📫 How to reach me nanakofilarbimantey@gmail.com 
+🔭 I’m currently working on a [travel app built with React Native](https://github.com/nklmantey/react-native-travel-app)<br><br>🌱 I’m currently learning Kotlin for Android development<br><br>👨‍💻 All of my projects are available at https://github.com/nklmantey<br><br>📫 How to reach me nanakofilarbimantey@gmail.com 
 <br><br>📝 Access my [CV](https://drive.google.com/file/d/1nVWxheV-h1AWliemhNGGsvaV8Ge_N_qf/view?usp=sharing) here <br><br>
 
 ## 🌐 Socials:
