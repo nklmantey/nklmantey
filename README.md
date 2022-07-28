@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a [travel app built with React Native](https://github.com/nklmantey/react-native-travel-app)<br><br>🌱 I’m currently learning Kotlin for Android development<br><br>👨‍💻 Open to working/collaborating on anything involving React Native or Kotlin<br><br>📫 You can reach me at nanakofilarbimantey@gmail.com 
-<br><br>📝 Access my CV [here](https://drive.google.com/file/d/1BMi-yZjd4I8yNL3n6hauU3qKqpFMdQF9/view?usp=sharing) <br><br>
+<br><br>
 
 ## 🌐 Socials:
 <p align="left"><a href="https://instagram.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nklmantey" height="40" width="40" /></a> <a href="https://twitter.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nklmantey" height="40" width="40" /></a>
