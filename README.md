@@ -1,15 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on a [travel app built with React Native](https://github.com/nklmantey/react-native-travel-app)<br><br>🌱 I’m currently learning Kotlin for Android development<br><br>👨‍💻 Open to working/collaborating on anything involving React Native or Kotlin<br><br>📫 You can reach me at nanakofilarbimantey@gmail.com 
+ 📚 I’m currently learning Kotlin for Android development
+ <br><br>
+ 👨‍💻 Open to working/collaborating on anything related to mobile app development, more specifically: cross-platform mobile app development with React Native or native Android app development with Kotlin
+ <br><br>
+ 📫 You can reach me at nanakofilarbimantey@gmail.com 
 <br><br>
 
-## 🌐 Socials:
-<p align="left"><a href="https://instagram.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nklmantey" height="40" width="40" /></a> <a href="https://twitter.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nklmantey" height="40" width="40" /></a>
+# 🌐 Socials:
+<p align="left"><a href="https://instagram.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nklmantey" height="40" width="40" /></a> <a href="https://twitter.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nklmantey" height="30" width="30" /></a>
 </p> <br>
 
 # 💻 Tech Stack:
 <h4 align="left">Programming languages:</h4>
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
 
 <h4 align="left">Mobile app development:</h4>
 
