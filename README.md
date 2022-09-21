@@ -1,5 +1,5 @@
 # 💫 About Me:
- 📚 I’m currently learning Kotlin for Android development
+ 📚 I’m currently learning Kotlin for Android development and TypeScript for React Native
  <br><br>
  👨‍💻 Open to working/collaborating on anything related to mobile app development, more specifically: cross-platform mobile app development with React Native or native Android app development with Kotlin
  <br><br>
@@ -14,8 +14,8 @@
 <h4 align="left">Programming languages:</h4>
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
+<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 
 <h4 align="left">Mobile app development:</h4>
 
