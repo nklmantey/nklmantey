@@ -1,5 +1,5 @@
 # 💫 About Me:
- 📚 I’m currently learning Kotlin for Android development and TypeScript for React Native
+ 📚 I’m currently learning Kotlin for Android development and TypeScript with React Native
  <br><br>
  👨‍💻 Open to working/collaborating on anything related to mobile app development, more specifically: cross-platform mobile app development with React Native or native Android app development with Kotlin
  <br><br>
