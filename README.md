@@ -1,6 +1,4 @@
-# 💫 About Me:
- 📚 I’m currently learning TypeScript with React Native
- <br><br>
+# 💫 Intro:
  👨‍💻 Open to working/collaborating on anything related to mobile app development, more specifically: cross-platform mobile app development with React Native or native Android app development with Kotlin
  <br><br>
  📫 You can reach me at nanakofilarbimantey@gmail.com 
