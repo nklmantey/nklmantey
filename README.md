@@ -1,6 +1,5 @@
 # 💫 Intro:
- 👨‍💻 Open to working/collaborating on anything related to mobile app development, more specifically: cross-platform mobile app development with React Native or native Android app development with Kotlin
- <br><br>
+ 👨‍💻 Open to working/collaborating on anything related to cross-platform mobile app development with React Native or web development with React.js
  📫 You can reach me at nanakofilarbimantey@gmail.com 
 <br><br>
 
