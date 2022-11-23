@@ -29,6 +29,6 @@
 
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 # 📊 GitHub Stats:
-[![Kofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nklmantey)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Kofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nklmantey&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nklmantey&theme=radical&hide_border=false)<br/>
