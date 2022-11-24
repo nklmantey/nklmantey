@@ -1,5 +1,5 @@
 # 💫 Intro:
- 👨‍💻 Open to working/collaborating on anything related to cross-platform mobile app development with React Native or web development with React.js
+ 👨‍💻 Open to working/collaborating on anything related to cross-platform mobile app development with React Native or web development with React.js<br><br>
  📫 You can reach me at nanakofilarbimantey@gmail.com 
 <br><br>
 
