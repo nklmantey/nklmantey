@@ -7,7 +7,7 @@
  📫 You can reach me at nanakofilarbimantey@gmail.com 
  
 <br>
-<br>
+
 
 # 💻 Tech Stack:
 <h4 align="left">Programming languages:</h4>
@@ -29,5 +29,9 @@
 <h4 align="left">Others:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=git,bash,figma,vscode,powershell,netlify,vercel)](https://skillicons.dev)
+
+<br>
+
+# 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nklmantey&theme=radical&hide_border=false)<br/>
