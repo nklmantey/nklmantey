@@ -20,11 +20,11 @@
 
 <h4 align="left">Frontend web development:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,redux,nextjs,react,bootstrap,mui,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,redux,nextjs,react,bootstrap,mui,tailwind,chakraui)](https://skillicons.dev)
 
 <h4 align="left">Backend stack/tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql,firebase)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql,firebase,prisma)](https://skillicons.dev)   
   
 <h4 align="left">Others:</h4>
 
