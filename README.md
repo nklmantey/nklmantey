@@ -1,11 +1,13 @@
 # 💫 Intro:
- 👨‍💻 Open to working/collaborating on anything related to cross-platform mobile app development with React Native or web development with Reactjs<br><br>
+ 👨‍💻 Open to working/collaborating on anything related to cross-platform mobile app development with React Native or web development with Reactjs
+ 
+ <br>
+ <br>
+ 
  📫 You can reach me at nanakofilarbimantey@gmail.com 
-<br><br>
-
-# 🌐 Socials:
-<p align="left"><a href="https://instagram.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nklmantey" height="40" width="40" /></a> <a href="https://twitter.com/nklmantey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nklmantey" height="30" width="30" /></a>
-</p> <br>
+ 
+<br>
+<br>
 
 # 💻 Tech Stack:
 <h4 align="left">Programming languages:</h4>
