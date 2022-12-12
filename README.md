@@ -20,7 +20,7 @@
 
 <h4 align="left">Frontend web development:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,redux,nextjs,react,bootstrap,mui,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,sass,tailwind,bootstrap,mui,redux,nextjs)](https://skillicons.dev)
 
 <h4 align="left">Backend stack/tools:</h4>
 
