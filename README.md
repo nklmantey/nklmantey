@@ -2,8 +2,7 @@
  👨‍💻 Open to working/collaborating on anything related to cross-platform mobile app development with React Native or web development with Reactjs
  
  <br>
- <br>
- 
+
  📫 You can reach me at nanakofilarbimantey@gmail.com 
  
 <br>
