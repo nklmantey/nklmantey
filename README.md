@@ -1,5 +1,5 @@
 # 💫 Intro:
- 👨‍💻 Open to working/collaborating on anything related to cross-platform mobile app development with React Native or web development with Reactjs
+ 👨‍💻 Talk to me about anything related to cross-platform mobile app development with React Native or web development with React.js
  
  <br>
 
@@ -23,13 +23,18 @@
 
 <h4 align="left">Backend stack/tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,apollo,graphql,prisma,firebase,amazonwebservices)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,apollo,graphql,prisma,planetscale,firebase,amazonwebservices,postman)](https://skillicons.dev)   
   
 <h4 align="left">Others:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,figma,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,netlify,vercel)](https://skillicons.dev)
 
 <br>
+
+# ☎️ Contact:
+ <h4 align="left">Reach me via the following media:</h4>
+
+[![Socials](https://skillicons.dev/icons?i=twitter)](https://twitter.com/nklmanteydev)
 
 
 # 📊 GitHub Stats:
