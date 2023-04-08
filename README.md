@@ -11,7 +11,7 @@
 # 💻 Tech Stack:
 <h4 align="left">Programming languages:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
 
 <h4 align="left">Mobile app development:</h4>
 
@@ -19,11 +19,11 @@
 
 <h4 align="left">Frontend web development:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,sass,tailwind,bootstrap,mui,redux,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
 <h4 align="left">Backend stack/tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,apollo,graphql,prisma,firebase)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,apollo,graphql,prisma,firebase,amazonwebservices)](https://skillicons.dev)   
   
 <h4 align="left">Others:</h4>
 
