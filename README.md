@@ -31,11 +31,5 @@
 
 <br>
 
-# ☎️ Contact:
- <h4 align="left">Reach me via the following media:</h4>
-
-[![Socials](https://skillicons.dev/icons?i=twitter)](https://twitter.com/nklmanteydev)
-
-
 # 📊 GitHub Stats:
 [![Kofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nklmantey&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
