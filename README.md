@@ -1,4 +1,4 @@
-# 💫 Intro:
+## 💫 Intro:
  👨‍💻 Talk to me about anything related to cross-platform mobile app development with React Native or web development with React.js
  
  <br>
@@ -8,7 +8,7 @@
 <br>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <h4 align="left">Programming languages:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
@@ -31,5 +31,5 @@
 
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![Kofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nklmantey&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)<br/>
