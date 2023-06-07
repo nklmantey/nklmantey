@@ -32,5 +32,5 @@
 <br>
 
 ## 📊 GitHub Stats:
-[![Kofi's GitHub stats](https://github-readme-stats-nine-theta-35.vercel.app/api?username=nklmantey)](https://github.com/anuraghazra/github-readme-stats)
+[![Kofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nklmantey&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
