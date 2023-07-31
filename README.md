@@ -19,11 +19,11 @@
 
 <h4 align="left">Frontend web development:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
 
 <h4 align="left">Backend stack/tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,apollo,graphql,prisma,planetscale,firebase,amazonwebservices,postman)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,apollo,graphql,prisma,planetscale,firebase,postman)](https://skillicons.dev)   
   
 <h4 align="left">Others:</h4>
 
