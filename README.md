@@ -19,15 +19,15 @@
 
 <h4 align="left">Frontend web development:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,styledcomponents,vite&perline=5)](https://skillicons.dev)
 
 <h4 align="left">Backend stack/tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,apollo,graphql,prisma,planetscale,firebase,postman)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,supabase,firebase,redis,aws,postman&perline=5)](https://skillicons.dev)   
   
 <h4 align="left">Others:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,netlify,vercel&perline=5)](https://skillicons.dev)
 
 <br>
 
