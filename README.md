@@ -1,5 +1,5 @@
 ## 💫 Intro:
- 👨‍💻 Talk to me about anything related to cross-platform mobile app development with React Native or web development with React.js
+ 👨‍💻 Talk to me about anything related to cross-platform mobile app development with React Native or web development with React.js or Next.js - I do some backend too
  
  <br>
 
