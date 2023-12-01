@@ -1,5 +1,5 @@
 ## Languages & Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,swift)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev) <br />
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,styledcomponents,vite)](https://skillicons.dev) <br />
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,supabase,firebase,redis,aws,postman&perline=7)](https://skillicons.dev)  <br /> 
  
